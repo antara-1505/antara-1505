@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Antara Shaw</h1>
-<h3 align="center"> Passionate Data Scientist | Analytic Thinker & Problem Solver | Tech Enthusiast from India</h3>
+<h3 align="center"> Passionate Data Scientist | Analytic Thinker & Problem Solver | Data Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=antara-1505&label=Profile%20views&color=0e75b6&style=flat" alt="DaRkLord0350" />
