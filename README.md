@@ -24,7 +24,7 @@ Data & Analytics enthusiast with a Biotechnology background<br>Interested in end
 
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p>
   
 ![](https://github-readme-stats.vercel.app/api?username=antara-1505&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
